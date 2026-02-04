@@ -89,6 +89,17 @@ When you want to publish a new version:
 - [ ] Regularly test with new WP versions
 - [ ] Update "Tested up to" in readme.txt
 
+## 7. Future Module Ideas
+
+- [ ] Disable RSS Feeds - Disables all RSS/Atom feeds
+- [ ] Disable REST API for Guests - Restricts REST API access to authenticated users only
+- [ ] Limit Login Attempts - Blocks IP after X failed login attempts
+- [ ] Disable Author Archives - Prevents user enumeration through author archive pages
+- [ ] Maintenance Mode - Shows a coming soon/maintenance page for non-admin visitors
+- [ ] Custom Login Logo - Replaces the WordPress logo on the login page
+- [ ] Disable Auto Updates - Controls automatic updates for core, plugins, and themes
+- [ ] SMTP Mail - Sends emails through SMTP instead of PHP mail()
+
 ---
 
 ## Notes
