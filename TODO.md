@@ -91,16 +91,17 @@ When you want to publish a new version:
 
 ## 7. Future Module Ideas
 
-- [ ] Disable RSS Feeds - Disables all RSS/Atom feeds
-- [ ] Disable REST API for Guests - Restricts REST API access to authenticated users only
-- [ ] Limit Login Attempts - Blocks IP after X failed login attempts
-- [ ] Disable Author Archives - Prevents user enumeration through author archive pages
-- [ ] Maintenance Mode - Shows a coming soon/maintenance page for non-admin visitors
-- [ ] Custom Login Logo - Replaces the WordPress logo on the login page
+- [x] Disable RSS Feeds - Disables all RSS/Atom feeds
+- [x] Disable REST API for Guests - Restricts REST API access to authenticated users only
+- [x] Limit Login Attempts - Blocks IP after X failed login attempts
+- [x] Disable Author Archives - Prevents user enumeration through author archive pages
+- [x] Maintenance Mode - Shows a coming soon/maintenance page for non-admin visitors
+- [x] Custom Login Logo - Replaces the WordPress logo on the login page
 - [x] Disable Auto Updates - Controls automatic updates for core, plugins, and themes
-- [ ] SMTP Mail - Sends emails through SMTP instead of PHP mail()
+- [x] SMTP Mail - Sends emails through SMTP instead of PHP mail()
 - [x] Custom Login URL - Replaces /wp-login.php with a custom path to reduce brute-force attacks
 - [x] Enable Debug Mode - Toggles WP_DEBUG and related constants for troubleshooting
+- [x] Duplicate Menu - Duplicate a menu with a single click
 
 ---
 
