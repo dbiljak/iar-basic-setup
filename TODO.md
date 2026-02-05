@@ -91,17 +91,17 @@ When you want to publish a new version:
 
 ## 7. Future Module Ideas
 
-- [x] Disable RSS Feeds - Disables all RSS/Atom feeds
-- [x] Disable REST API for Guests - Restricts REST API access to authenticated users only
-- [x] Limit Login Attempts - Blocks IP after X failed login attempts
-- [x] Disable Author Archives - Prevents user enumeration through author archive pages
-- [x] Maintenance Mode - Shows a coming soon/maintenance page for non-admin visitors
-- [x] Custom Login Logo - Replaces the WordPress logo on the login page
-- [x] Disable Auto Updates - Controls automatic updates for core, plugins, and themes
-- [x] SMTP Mail - Sends emails through SMTP instead of PHP mail()
-- [x] Custom Login URL - Replaces /wp-login.php with a custom path to reduce brute-force attacks
-- [x] Enable Debug Mode - Toggles WP_DEBUG and related constants for troubleshooting
-- [x] Duplicate Menu - Duplicate a menu with a single click
+- [ ] Code Snippets - Insert PHP, HTML, CSS or JS code snippets to the website header or footer.
+- [ ] Disable Blog - Transform your site into a non-blogging platform by disabling blog-related features.
+- [ ] Hide Admin Notices - Hide unnecessary admin notices, allowing for a more focused and efficient admin experience.
+- [ ] Post Type Order - Easily reorder post types using a drag-and-drop interface. Including custom post types.
+- [ ] Post Type Switcher - Switch between post types (e.g., from post to page) without losing content or SEO value. Including custom post types.
+- [ ] User Switching - Quickly switch between user accounts in the admin area for testing purposes.
+
+## 8. Design update
+- [ ] Update plugin icon and banner for a more modern look
+- [ ] Add screenshots to readme.txt for better presentation on WordPress.org
+- [ ] Fix single page design for better readability and user experience
 
 ---
 
