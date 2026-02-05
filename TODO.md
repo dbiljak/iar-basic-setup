@@ -97,9 +97,10 @@ When you want to publish a new version:
 - [ ] Disable Author Archives - Prevents user enumeration through author archive pages
 - [ ] Maintenance Mode - Shows a coming soon/maintenance page for non-admin visitors
 - [ ] Custom Login Logo - Replaces the WordPress logo on the login page
-- [ ] Disable Auto Updates - Controls automatic updates for core, plugins, and themes
+- [x] Disable Auto Updates - Controls automatic updates for core, plugins, and themes
 - [ ] SMTP Mail - Sends emails through SMTP instead of PHP mail()
 - [ ] Custom Login URL - Replaces /wp-login.php with a custom path to reduce brute-force attacks
+- [x] Enable Debug Mode - Toggles WP_DEBUG and related constants for troubleshooting
 
 ---
 
